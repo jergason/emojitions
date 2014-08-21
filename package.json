@@ -1,0 +1,18 @@
+{
+  "name": "emojitions",
+  "version": "1.0.0",
+  "description": "tweet about your emojitions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jergason/emojitions.git"
+  },
+  "author": "Jamison Dance <jergason@gmail.com> (http://jamisondance.com)",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^1.1.18"
+  }
+}
